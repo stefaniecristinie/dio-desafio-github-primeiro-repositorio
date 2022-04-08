@@ -1,0 +1,6 @@
+1° Criar repositório no GitHub
+2° Git Bash
+3° git clone com o link do GitHub (Code)
+4° git add . 
+5° git commit -m "msg"
+6° git push origin main
